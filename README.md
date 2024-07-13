@@ -3,7 +3,7 @@ Company: CODETECH IT SOLUTIONS
 ID:CT4D4099                                                                                                                                                                                              
 Domain:DEVOPS                                                                                                                                                                                           
 Duration:JULY 5th TO AUGUST 5th                                                                                                                                                                                
-Mentor:
+Mentor:SANTOSH KUMAR
 
 **3-Tier Full-stack project application CICD Pipeline** 
 
